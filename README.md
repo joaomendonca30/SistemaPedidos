@@ -1,7 +1,7 @@
 <h1 align="center">Projeto Sistema de Pedidos</h1>
 
 <p align="center">
-  <img src="https://exemplo.com/logo.png" alt="Logo do Projeto" width="200" height="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Btg-logo-blue.svg" alt="Logo da BTG" width="200" height="200">
 </p>
 
 <p align="center">
