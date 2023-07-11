@@ -10,12 +10,12 @@
 
 <p align="center">
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/seu-usuario/nome-do-repositorio.svg" alt="Licença">
+    <img src="https://img.shields.io/github/license/joaomendonca30/SistemaPedidos.svg" alt="Licença">
   </a>
 </p>
 
 ---
-- ...
+
 ## Funcionalidades
 
 - Consumo de dados de uma requisição POST
