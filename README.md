@@ -15,10 +15,10 @@
 </p>
 
 ---
-
+- ...
 ## Funcionalidades
 
-- Consumo de dados da fila RabbitMQ
+- Consumo de dados de uma requisição POST
 - Armazenamento de dados
 - Consulta de informações:
   - Valor total do pedido
@@ -27,10 +27,9 @@
 
 ## Tecnologias Utilizadas
 
-- Linguagem de programação: JAVA 8
-- RabbitMQ
-- Banco de Dados: MySQL 
-- Framework/API Web: Spring(Java)
+- Linguagem de programação: JAVA 17
+- Banco de Dados: MySQL 8.0
+- Framework/API Web: SpringBooot 4
 - IDE: Eclipse
 - Sistema Operacional: Windows 11
 
@@ -40,5 +39,5 @@ Este projeto está licenciado sob a MIT License.
 
 ## Contato
 
-Em caso de dúvidas ou sugestões, entre em contato através do email mendonca.jvitor@gmail.com.
+Em caso de dúvidas ou sugestões, entre em contato através do email joaoom2001@gmail.com.
 
